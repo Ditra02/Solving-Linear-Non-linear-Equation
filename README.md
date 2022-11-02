@@ -11,6 +11,7 @@ Metode yang digunakan untuk menyelesaikan Persamaan Non Linear:
 5. Metode Regula-Falsi
 
 References :
+
 https://www.cuemath.com/algebra/elementary-row-operations/
 https://en.wikipedia.org/wiki/Fixed-point_iteration
 https://www.geeksforgeeks.org/program-for-bisection-method/
