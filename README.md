@@ -12,7 +12,7 @@ Metode yang digunakan untuk menyelesaikan Persamaan Non Linear:
 
 References :
 
-https://www.cuemath.com/algebra/elementary-row-operations/
+https://www.cuemath.com/algebra/elementary-row-operations/</h>
 https://en.wikipedia.org/wiki/Fixed-point_iteration
 https://www.geeksforgeeks.org/program-for-bisection-method/
 https://towardsdatascience.com/newton-raphson-explained-and-visualised-23f63da21bd5
